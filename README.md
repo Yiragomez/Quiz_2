@@ -14,9 +14,12 @@ Es un sistema de mensajería estándar que permite enviar mensajes de texto que 
 Un token es una representación digital de un activo o utilidad concreta. Este activo puede ser cualquier cosa, desde moneda digital hasta derechos de propiedad sobre algo o acceso a servicios. Incluso una identidad digital concreta.
 
 5. ◼️ **TECLADO**
-es un dispositivo, ya sea físico o virtual, que funciona como un sistema de entrada para introducir información en un aparato electrónico o musical, mediante un conjunto de teclas que al ser presionadas envían una señal para ejecutar una función.
+Es un dispositivo, ya sea físico o virtual, que funciona como un sistema de entrada para introducir información en un aparato electrónico o musical, mediante un conjunto de teclas que al ser presionadas envían una señal para ejecutar una función.
 
-6. ✌️**Aprendizaje por transferencia**
+6. ❤️**INGENERIA DE CARACTERISTICAS**
+Es un proceso iterativo entrelazado entre la selección de datos, la evaluación del modelo y la reevaluación. El proceso continúa hasta que los datos se encuentran en un formato que es procesable por los modelos de ML y permite que esos modelos puedan generar resultados accionables.
+
+
+7. ✌️**Aprendizaje por transferencia**
 El aprendizaje por transferencia es una técnica de machine learning en la que los conocimientos adquiridos a través de una tarea o conjunto de datos se utilizan para mejorar el rendimiento del modelo en otra tarea relacionada o en un conjunto de datos diferente.  
-
 
