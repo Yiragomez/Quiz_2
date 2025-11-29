@@ -10,7 +10,7 @@ Bit Map (mapa de bits). Formato de archivos gráficos de Windows. Es preferible 
 3. 🤩 **MMS (Multimedia Messaging System)**
 Es un sistema de mensajería estándar que permite enviar mensajes de texto que incluyen contenido multimedia, como imágenes, clips de audio y video. Es una evolución del servicio SMS (solo texto) y se utiliza principalmente en la comunicación entre teléfonos móviles. Aunque ha sido en gran parte reemplazado por aplicaciones de mensajería modernas, sigue siendo un estándar funcional.
 
-4.👌 **TOKEN:**
+4.👌**TOKEN:**
 Un token es una representación digital de un activo o utilidad concreta. Este activo puede ser cualquier cosa, desde moneda digital hasta derechos de propiedad sobre algo o acceso a servicios. Incluso una identidad digital concreta.
 
 5. ◼️ **TECLADO**
